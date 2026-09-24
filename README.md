@@ -70,7 +70,12 @@ This skill was created by **Shea Johnson** — AI Business Coach and founder of 
 
 ## Part of the Powerhouse Entrepreneur Prompts Series
 
-This is Volume 1 of the Powerhouse Entrepreneur Prompts series. More volumes coming.
+This is Volume 1 of the Powerhouse Entrepreneur Prompts series.
+
+- **Volume 1 — The Foundation** (this repo): Clarity, Vision, Structure, Build, Mindset
+- **Volume 2 — Spiritual Enlightenment**: [github.com/sheabooking/powerhouse-spiritual-coach](https://github.com/sheabooking/powerhouse-spiritual-coach) — live now
+- Volume 3 — Reinvention: coming soon
+- Volume 4 — Discipline & Consistency: coming soon
 
 ---
 
