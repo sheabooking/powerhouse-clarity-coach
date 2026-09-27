@@ -3,7 +3,7 @@
 **A free Claude skill by Shea Johnson | AI Business Coach**
 🌐 [www.mssheajohnson.com](https://www.mssheajohnson.com)
 
-> **Not a tech person?** Volume 1 also comes as an easy guided PDF. Download it, upload it to ChatGPT or Claude, and the coaching begins. No setup needed: [aibusinesscoach.etsy.com](https://aibusinesscoach.etsy.com)
+> **Not a tech person?** Volume 1 also comes as an easy guided PDF. Download it, upload it to ChatGPT or Claude, and the coaching begins. No setup needed: [etsy.com/shop/MsSheaJohnsonStudio](https://www.etsy.com/shop/MsSheaJohnsonStudio)
 >
 > **Want to work with me directly?** [Book a strategy call](https://cal.com/mssheajohnson)
 
