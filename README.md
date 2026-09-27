@@ -1,7 +1,11 @@
-# Powerhouse Entrepreneur Prompts: Vol. 1 — The Foundation
+# Powerhouse Entrepreneur Series: Vol. 1 — The Foundation
 
 **A free Claude skill by Shea Johnson | AI Business Coach**
 🌐 [www.mssheajohnson.com](https://www.mssheajohnson.com)
+
+> **Not a tech person?** Volume 1 also comes as an easy guided PDF. Download it, upload it to ChatGPT or Claude, and the coaching begins. No setup needed: [aibusinesscoach.etsy.com](https://aibusinesscoach.etsy.com)
+>
+> **Want to work with me directly?** [Book a strategy call](https://cal.com/mssheajohnson)
 
 ---
 
