@@ -87,8 +87,8 @@ This is Volume 1 of the Powerhouse Entrepreneur Prompts series.
 
 - **Volume 1 — The Foundation** (this repo): Clarity, Vision, Structure, Build, Mindset
 - **Volume 2 — Spiritual Enlightenment**: [github.com/sheabooking/powerhouse-spiritual-coach](https://github.com/sheabooking/powerhouse-spiritual-coach) — live now
-- Volume 3 — Reinvention: coming soon
-- Volume 4 — Discipline & Consistency: coming soon
+- **Volume 3 — Self Reincarnation**: [github.com/sheabooking/powerhouse-reinvention-coach](https://github.com/sheabooking/powerhouse-reinvention-coach)
+- **Volume 4 — Discipline & Consistency**: [github.com/sheabooking/powerhouse-discipline-coach](https://github.com/sheabooking/powerhouse-discipline-coach)
 
 ---
 
